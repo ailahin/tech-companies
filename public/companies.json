@@ -1,0 +1,66 @@
+[
+	{
+		"Key":"0",
+		"name": "Amazon",
+		"products": " Amazon Store",
+		" Twitch": "Goodreads",
+		"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd6QqU_fs0DszY1dYxEyUj3L3G-NUguf2D-g&usqp=CAU",
+		"value": "1468.4",
+		"employees": "1608000"
+	},
+	{	"Key":"1",
+		"name": "Apple",
+		"products": "iPhone",
+		"value": "2640.32",
+		"img":"https://9to5mac.com/wp-content/uploads/sites/6/2021/09/Apple-Store.png?w=1600",
+		"employees": "164000"
+	},
+	{	"Key":"2",
+		"name": "Alphabet Inc",
+		"Popular products": "Android",
+		"img":"https://i.insider.com/5a6a0e83cf841083018b46c7?width=750&format=jpeg&auto=webp",
+		"value": " 1581.72 ",
+		"employees": "186779"
+	},
+	
+	{	"Key":"3",
+		"name": "Microsoft",
+		"Popular products": "Microsoft",
+		"img":"https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe0ca7758-da2c-4f49-aa87-b35f4a7551a5.jpg?fit=scale-down&source=next&width=700",
+		"value": "2054.37",
+		"employees": " 221000"
+	},
+	
+
+	{	"Key":"4",
+		"name": "Samsung Group",
+		"products": "Phones",
+		"img": "https://img.us.news.samsung.com/us/wp-content/uploads/2015/11/15064719/2015-CES-e1450834071366.jpg",
+		"value": "367.26",
+		"employees": "320000"
+	},
+
+	{	"Key":"5",
+		"name": "Tencent Holdings ",
+		"products": "WeChat, PUBG Mobile, QQ, Riot Games",
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVq2Nhgb3E0ds0GLZx--Y9zBz0A8-cM5JPgA&usqp=CAU",
+		"value": "414.28",
+		"employees": "112,771"
+	},
+	{	"Key":"6",
+		"name": "Meta Platforms",
+		"products": "Facebook, Instagram, WhatsApp, Messenge",
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCRd6wATNXR5ycLzbqNnawOzm_89we2tkrMg&usqp=CAU",
+		"value": "499.86",
+		"employees": "83553"
+	},
+	{	"Key":"7",
+		"name": "Cisco Systems ",
+		"products": "Cisco ONE, Cisco DNA, Cisco+",
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMDZOm8FKRr8rjBb6Ij1guWxrGe7Xgvt9VWg&usqp=CAU",
+		"value": "213.36",
+		"employees": "79,500 "
+
+	}
+
+]

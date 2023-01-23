@@ -1,0 +1,71 @@
+.display{
+
+    display: flex;
+    background-color: lavender;
+    border-image:linear-gradient(to right, darkblue, darkorchid) 2;
+    box-shadow: 5px 0px 10px 10px rgb(191, 207, 207) ;
+    
+    
+}
+.display img{
+    width: 100%;
+   
+}
+
+.companies-information{
+    width: 70%;
+    border-right: 1px solid rgb(10, 10, 10);
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+ 
+
+
+}
+.total-detail{
+    width: 30%;
+    background-color:rgb(240, 234, 227);
+   margin-left: 0px;
+
+} 
+.footer{
+    background-color: black;
+    height: 50px;
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.footer-text{
+  
+    
+}
+.search-field{
+ margin-left: 120px;
+}
+
+
+#search-input {
+    width: 500px;
+    height: 30px;
+    text-align: center;
+    border: 1px solid blue;
+    border-radius: 5px 0 0 5px;
+
+}
+#search-btn{
+    height: 34px;
+    width: 70px;
+    background-color: rgb(92, 58, 206);
+    color: rgb(240, 237, 245);
+    font-size: bold;
+    border-radius: 0 5px 5px 0px;
+    border: 1px;
+
+
+    
+
+
+}

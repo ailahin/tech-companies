@@ -1,0 +1,18 @@
+.header{
+
+    background-color:rgb(240, 234, 227);
+    color:rgb(42, 5, 103);
+    text-align: center;
+   padding-top: 20px;
+   padding-bottom: 20px;
+
+}
+
+.intro{
+    
+    padding-right: 100px;
+}
+
+.text{
+    color:orange;
+}

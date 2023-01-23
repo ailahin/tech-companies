@@ -1,0 +1,39 @@
+[
+	{
+		"name": "Amazon",
+		"Products": " Amazon Store",
+		" Twitch": "Goodreads",
+		"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd6QqU_fs0DszY1dYxEyUj3L3G-NUguf2D-g&usqp=CAU",
+		"Market Value": "$1,468.4B",
+		"Employee Size": "1,608,000"
+	},
+	{
+		"name": "Apple",
+		"Products": "iPhone",
+		"img":"https://9to5mac.com/wp-content/uploads/sites/6/2021/09/Apple-Store.png?w=1600",
+		"Market Value": "$2,640.32B",
+		"Employee Size": "164,000"
+	},
+	{
+		"name": "Alphabet Inc",
+		"Popular Products": "Android",
+		"img":"https://9to5mac.com/wp-content/uploads/sites/6/2021/09/Apple-Store.png?w=1600",
+		"Market Value": " $1,581.72B ",
+		"Employee Size": "186,779"
+	},
+	{
+		"name": "Microsoft",
+		"Popular Products": "Microsoft",
+		"img":"https://9to5mac.com/wp-content/uploads/sites/6/2021/09/Apple-Store.png?w=1600",
+		"Market Value": "$2,054.37B",
+		"Employee Size": " 221,000"
+	},
+
+	{
+		"name": "Samsung Group",
+		"Products": "Phones",
+		"img":"https://9to5mac.com/wp-content/uploads/sites/6/2021/09/Apple-Store.png?w=1600",
+		"Market Value": "$367.26B",
+		"Employee Size": "+320,000"
+	}
+]
